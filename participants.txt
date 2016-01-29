@@ -5,3 +5,9 @@ Finance team
     Stacy
     Alexander
     
+Marketing team
+    Collins
+    Linda
+    Patricia
+    Morgan
+    
